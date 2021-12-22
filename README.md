@@ -1,7 +1,7 @@
 # Audio-Classification
 
 ## Overview
-In this project is we have processed different audios and tried classified them into 10 classes.  
+In this project is we have processed different audios and tried to classify them into 10 classes.  
 
 ## Quick Start
 To get this project up and running on your computer:
